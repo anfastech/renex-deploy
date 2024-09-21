@@ -1,5 +1,6 @@
 "use client";
 import { useState } from 'react';
+import Link from 'next/link';
 
 export default function Header() {
     const [isMenuOpen, setIsMenuOpen] = useState(false);
@@ -25,9 +26,9 @@ export default function Header() {
                 </nav>
 
                 {/* Post Property Button */}
-                <a href="superlisting.html">
+                <Link href="/../../AddForm/AddForm">
                     <button className="bg-green-500 text-white px-4 py-2 rounded-lg">Post Property</button>
-                </a>
+                </Link>
 
                 {/* Profile Section */}
                 <div className="flex items-center space-x-4">

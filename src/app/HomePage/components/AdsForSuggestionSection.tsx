@@ -1,4 +1,3 @@
-
 export default function AdsForSuggestionSection() {
   return (
     <section className="container mx-auto mt-12 bg-white p-6 rounded-lg shadow-md py-10 mb-10">

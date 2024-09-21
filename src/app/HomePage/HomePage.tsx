@@ -1,4 +1,4 @@
-import Header from "./components/Header";
+// import Header from "./components/Header";
 import SearchAndFilters from "./components/SearchAndFilters";
 import HeroSection from "./components/HeroSection";
 import RealEstateOptions from "./components/RealEstateOptions";
@@ -10,11 +10,11 @@ import NewlyLaunchedProjects from "./components/NewlyLaunchedProjects";
 import RentalCollection from "./components/RentalCollection";
 import TopCities from "./components/TopCities";
 import NewsletterSubscription from "./components/NewsletterSubscription";
-export default function UpperPage() {
+export default function HomePage() {
     return (
         <main>
             {/* Header Section */}
-            <Header />
+            {/* <Header /> */}
             {/* Hero Section */}
             <HeroSection />
             {/* SearchAndFilters */}
