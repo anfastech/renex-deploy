@@ -7,7 +7,7 @@ const projects = [
     price: '₹ 1.02 - 1.34 Cr',
     size: '2, 3 BHK Apartments',
     priceIncrease: '10.9% price increase in last 3 months',
-    image: './image/apartment2.jpg',
+    image: './images/apartment2.jpg',
   },
   {
     title: 'Sun Siri Green Delight',
@@ -15,7 +15,7 @@ const projects = [
     price: '₹ 23.38 - 69.16 L',
     size: '2, 3 BHK Apartments',
     priceIncrease: '19.2% price increase in last 3 months',
-    image: './image/apartment3.jpg',
+    image: './images/apartment3.jpg',
   },
   {
     title: 'Raamah Ellemen',
@@ -23,7 +23,7 @@ const projects = [
     price: '₹ 1.94 - 4.45 Cr',
     size: '2, 3 BHK Apartments',
     priceIncrease: '25.9% price increase in last 3 months',
-    image: './image/apartment4.jpg',
+    image: './images/apartment4.jpg',
   },
   {
     title: 'Green Hills Residency',
@@ -31,7 +31,7 @@ const projects = [
     price: '₹ 75.00 L - 1.20 Cr',
     size: '2, 3 BHK Apartments',
     priceIncrease: '12.5% price increase in last 3 months',
-    image: './image/apartment5.jpg',
+    image: './images/apartment5.jpg',
   },
 ];
 

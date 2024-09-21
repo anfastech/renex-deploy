@@ -49,7 +49,7 @@ const GlobalRealEstateBrokerageSection = () => {
 
           <div className="w-[100%] lg:w-[48%]">
             <Image
-              src="/image/Group 20.png"
+              src="/images/Group 20.png"
               alt="Property Image"
               className="rounded-lg w-full h-[350px] object-cover my-4"
               width={500}

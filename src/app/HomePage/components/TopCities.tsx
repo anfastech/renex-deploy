@@ -15,7 +15,7 @@ const TopCities: React.FC = () => {
         {/* City 1: Delhi / NCR */}
         <div className="bg-white rounded-lg shadow-lg overflow-hidden">
           <img 
-            src="./image/delhi.jpg" 
+            src="./images/delhi.jpg" 
             alt="Delhi / NCR" 
             className="w-full h-40 object-cover rounded-t-lg"
           />
@@ -28,7 +28,7 @@ const TopCities: React.FC = () => {
         {/* City 2: Bangalore */}
         <div className="bg-white rounded-lg shadow-lg overflow-hidden">
           <img 
-            src="./image/banglore.jpg" 
+            src="./images/banglore.jpg" 
             alt="Bangalore" 
             className="w-full h-40 object-cover rounded-t-lg"
           />
@@ -41,7 +41,7 @@ const TopCities: React.FC = () => {
         {/* City 3: Mumbai */}
         <div className="bg-white rounded-lg shadow-lg overflow-hidden">
           <img 
-            src="./image/mumbai.jpg" 
+            src="./images/mumbai.jpg" 
             alt="Mumbai" 
             className="w-full h-40 object-cover rounded-t-lg"
           />
@@ -54,7 +54,7 @@ const TopCities: React.FC = () => {
         {/* City 4: Pune */}
         <div className="bg-white rounded-lg shadow-lg overflow-hidden">
           <img 
-            src="./image/pune.jpg" 
+            src="./images/pune.jpg" 
             alt="Pune" 
             className="w-full h-40 object-cover rounded-t-lg"
           />
@@ -67,7 +67,7 @@ const TopCities: React.FC = () => {
         {/* City 5: Hyderabad */}
         <div className="bg-white rounded-lg shadow-lg overflow-hidden">
           <img 
-            src="./image/hydrabad.jpg" 
+            src="./images/hydrabad.jpg" 
             alt="Hyderabad" 
             className="w-full h-40 object-cover rounded-t-lg"
           />
@@ -80,7 +80,7 @@ const TopCities: React.FC = () => {
         {/* City 6: Kolkata */}
         <div className="bg-white rounded-lg shadow-lg overflow-hidden">
           <img 
-            src="./image/kolkatta.jpg" 
+            src="./images/kolkatta.jpg" 
             alt="Kolkata" 
             className="w-full h-40 object-cover rounded-t-lg"
           />
@@ -93,7 +93,7 @@ const TopCities: React.FC = () => {
         {/* City 7: Chennai */}
         <div className="bg-white rounded-lg shadow-lg overflow-hidden">
           <img 
-            src="./image/chennai.jpg" 
+            src="./images/chennai.jpg" 
             alt="Chennai" 
             className="w-full h-40 object-cover rounded-t-lg"
           />
@@ -106,7 +106,7 @@ const TopCities: React.FC = () => {
         {/* City 8: Ahmedabad */}
         <div className="bg-white rounded-lg shadow-lg overflow-hidden">
           <img 
-            src="./image/ahamadabad.jpg" 
+            src="./images/ahamadabad.jpg" 
             alt="Ahmedabad" 
             className="w-full h-40 object-cover rounded-t-lg"
           />

@@ -40,7 +40,7 @@ export default function TopFeaturesSection() {
         <div className="rounded-lg project-card opacity-0 shadow-md transform transition duration-500 col-span-1">
           <a href="http://127.0.0.1:5501/apartments.html">
             <Image
-              src="/image/apartment2.jpg"
+              src="/images/apartment2.jpg"
               alt="Commercial Building"
               className="rounded-lg w-full h-[250px] object-cover mb-[12px]"
               width={500}
@@ -55,7 +55,7 @@ export default function TopFeaturesSection() {
         <div className="rounded-lg project-card opacity-0 shadow-md transform transition duration-500 col-span-1">
           <a href="http://127.0.0.1:5501/commercial.html">
             <Image
-              src="/image/mbr-52.jpg"
+              src="/images/mbr-52.jpg"
               alt="Sobha Heartland II Villas"
               className="rounded-lg w-full h-[250px] object-cover mb-[12px]"
               width={500}
@@ -69,7 +69,7 @@ export default function TopFeaturesSection() {
         {/* Third Project */}
         <div className="rounded-lg project-card opacity-0 shadow-md transform transition duration-500 col-span-1">
           <Image
-            src="/image/building.png"
+            src="/images/building.png"
             alt="Modern Building"
             className="rounded-lg w-full h-[250px] object-cover mb-[12px]"
             width={500}

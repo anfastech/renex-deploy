@@ -7,14 +7,14 @@ const RentalCollection: React.FC = () => {
         <div className="flex flex-col md:flex-row md:space-x-4">
           <div className="flex-1 mb-4 md:mb-0">
             <img 
-              src="./image/three.webp" 
+              src="./images/three.webp" 
               alt="Rental Collection Image 1" 
               className="w-full h-auto object-cover rounded-lg shadow-md"
             />
           </div>
           <div className="flex-1">
             <img 
-              src="./image/two.webp" 
+              src="./images/two.webp" 
               alt="Rental Collection Image 2" 
               className="w-full h-auto object-cover rounded-lg shadow-md"
             />

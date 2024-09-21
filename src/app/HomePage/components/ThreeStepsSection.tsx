@@ -11,12 +11,11 @@ export default function ThreeStepsSection() {
         
         <div className="text-center">
           <Image 
-            src="/image/messages.png" 
+            src="/images/messages.png" 
             alt="Rent" 
             className="mx-auto" 
             width={90} 
-            height={90} 
-            layout="intrinsic"
+            height={90}
           />
           <h3 className="font-semibold mt-3 mb-2 text-lg md:text-xl">Rent</h3>
           <p className="text-sm md:text-base">
@@ -26,12 +25,11 @@ export default function ThreeStepsSection() {
         
         <div className="text-center">
           <Image 
-            src="/image/sms-tracking.png" 
+            src="/images/sms-tracking.png" 
             alt="Sell" 
             className="mx-auto" 
             width={90} 
-            height={90} 
-            layout="intrinsic"
+            height={90}
           />
           <h3 className="font-semibold mt-3 mb-2 text-lg md:text-xl">Sell</h3>
           <p className="text-sm md:text-base">
@@ -41,12 +39,11 @@ export default function ThreeStepsSection() {
 
         <div className="text-center">
           <Image 
-            src="/image/edit-2.png" 
+            src="/images/edit-2.png" 
             alt="Buy" 
             className="mx-auto" 
             width={90} 
-            height={90} 
-            layout="intrinsic"
+            height={90}
           />
           <h3 className="font-semibold mt-3 mb-2 text-lg md:text-xl">Buy</h3>
           <p className="text-sm md:text-base">

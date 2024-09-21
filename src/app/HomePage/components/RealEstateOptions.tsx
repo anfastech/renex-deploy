@@ -1,4 +1,5 @@
 import React from 'react';
+import Image from 'next/image';
 
 export default function RealEstateOptions() {
   return (
@@ -10,10 +11,12 @@ export default function RealEstateOptions() {
         {/* Card 1: Buying a home */}
         <div className="min-w-[150px] sm:min-w-[200px] lg:min-w-[250px]">
           <div className="bg-white rounded-lg shadow-md">
-            <img 
-              src="/image/home.webp" 
+            <Image               
+              src="/images/home.webp" 
               alt="Buying a home" 
-              className="w-full h-40 object-cover rounded-t-lg" 
+              className="w-full h-40 object-cover rounded-t-lg"
+              width={190}
+              height={90} 
             />
             <div className="p-4">
               <p className="text-center text-blue-900 font-semibold">Buying a home</p>
@@ -25,7 +28,7 @@ export default function RealEstateOptions() {
         <div className="min-w-[150px] sm:min-w-[200px] lg:min-w-[250px]">
           <div className="bg-white rounded-lg shadow-md">
             <img 
-              src="/image/rentinghome.webp" 
+              src="/images/rentinghome.webp" 
               alt="Renting a home" 
               className="w-full h-40 object-cover rounded-t-lg" 
             />
@@ -39,7 +42,7 @@ export default function RealEstateOptions() {
         <div className="min-w-[150px] sm:min-w-[200px] lg:min-w-[250px]">
           <div className="bg-white rounded-lg shadow-md relative">
             <img 
-              src="/image/investrealestate.png" 
+              src="/images/investrealestate.png" 
               alt="Invest in Real Estate" 
               className="w-full h-40 object-cover rounded-t-lg" 
             />
@@ -54,7 +57,7 @@ export default function RealEstateOptions() {
         <div className="min-w-[150px] sm:min-w-[200px] lg:min-w-[250px]">
           <div className="bg-white rounded-lg shadow-md">
             <img 
-              src="/image/sell.or.rent.webp" 
+              src="/images/sell.or.rent.webp" 
               alt="Sell/Rent your property" 
               className="w-full h-40 object-cover rounded-t-lg" 
             />
@@ -68,7 +71,7 @@ export default function RealEstateOptions() {
         {/* <div className="min-w-[150px] sm:min-w-[200px] lg:min-w-[250px]">
           <div className="bg-white rounded-lg shadow-md">
             <img 
-              src="/image/plot.land.webp" 
+              src="/images/plot.land.webp" 
               alt="Plots/Land" 
               className="w-full h-40 object-cover rounded-t-lg" 
             />
@@ -82,7 +85,7 @@ export default function RealEstateOptions() {
         {/* <div className="min-w-[150px] sm:min-w-[200px] lg:min-w-[250px]">
           <div className="bg-white rounded-lg shadow-md relative">
             <img 
-              src="/image/commercial.webp" 
+              src="/images/commercial.webp" 
               alt="Explore Insights" 
               className="w-full h-40 object-cover rounded-t-lg" 
             />

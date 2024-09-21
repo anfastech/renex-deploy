@@ -27,7 +27,7 @@ const NewsletterSubscription: React.FC = () => {
                 {/* Image Section */}
                 <div className="w-full lg:w-4/5">
                     <img
-                        src="./image/3d-rendering-isometric-fdgdf 1.png"
+                        src="./images/3d-rendering-isometric-fdgdf 1.png"
                         alt="3D Rendering"
                         className="w-full object-cover rounded-lg lg:h-96 lg:object-contain"
                     />
