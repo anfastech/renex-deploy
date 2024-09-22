@@ -10,7 +10,7 @@ import NewlyLaunchedProjects from "./components/NewlyLaunchedProjects";
 import RentalCollection from "./components/RentalCollection";
 import TopCities from "./components/TopCities";
 import NewsletterSubscription from "./components/NewsletterSubscription";
-import Header from "./components/Header";
+// import Header from "./components/Header";
 export default function HomePage() {
     return (
         <main>
@@ -34,7 +34,7 @@ export default function HomePage() {
             <NewlyLaunchedProjects />
             {/* RentalCollection */}
             <RentalCollection />
-            {/* TopCities */}
+            {/* TopCities  */}
             <TopCities />
             {/* NewsletterSubscription */}
             <NewsletterSubscription />

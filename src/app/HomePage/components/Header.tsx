@@ -14,7 +14,7 @@ export default function Header() {
         <header className="bg-blue-500 shadow-lg text-white sticky">
             <div className="container mx-auto flex justify-around items-center py-4">
                 {/* Logo */}
-                <img src="/images/renexLogoSvg.svg" alt="re-Nex Logo" className="w-8 md:w-10 lg:w-11 xl:w-12 2xl:w-18 max-w-full h-auto"  />
+                {/* <Image src="/images/renexLogoSvg.svg" alt="re-Nex Logo" className="w-8 md:w-10 lg:w-11 xl:w-12 2xl:w-18 max-w-full h-auto"  /> */}
 
                 {/* Navigation Menu */}
                 <nav className="hidden md:flex space-x-8">
