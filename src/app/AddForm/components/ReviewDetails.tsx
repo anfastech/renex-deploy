@@ -12,7 +12,7 @@ const ReviewDetails: React.FC = () => {
           <input type="text" className="px-4 py-2 border border-gray-300 rounded-md w-full" placeholder="Enter name" />
         </div>
       </div>
-      <h2 className="text-xl font-medium mb-2">Let's Verify Your Account</h2>
+      <h2 className="text-xl font-medium mb-2">Let&apos;s Verify Your Account</h2>
       <h3 className="text-lg mb-4">We will send you a confirmation code by SMS on the next step.</h3>
       <div className="mb-4">
         <h2 className="text-lg font-medium mb-2">Mobile Number</h2>
