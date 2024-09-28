@@ -1,6 +1,7 @@
 "use client";
 import { useState } from 'react';
 import Link from 'next/link';
+// give parameter back, thats it
 
 export default function Header() {
     const [isMenuOpen, setIsMenuOpen] = useState(false);
