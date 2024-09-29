@@ -6,7 +6,8 @@ import FileUpload from "./components/FileUpload";
 import LocationVerification from "./components/LocationVerification";
 import ReviewDetails from "./components/ReviewDetails";
 
-const AddForm: React.FC = () => {
+// const AddForm: React.FC = () => {
+  export default function AddForm()  {
   return (
     <section className="pt-8">
       <div className="wrapper mx-auto max-w-7xl px-4">
@@ -42,4 +43,4 @@ const AddForm: React.FC = () => {
   );
 };
 
-export default AddForm;
+// export default AddForm;
